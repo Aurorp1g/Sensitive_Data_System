@@ -1,0 +1,11 @@
+# 核心依赖
+paddleocr>=2.6.0.3  # OCR识别核心库
+paddlepaddle>=2.4.0  # 飞桨深度学习框架
+opencv-python>=4.5.1.48  # 图像处理
+numpy>=1.21.0  # 数值计算
+
+# PCAP分析相关
+tqdm>=4.62.0  # 进度条显示
+
+# GUI相关
+tkinter>=8.6  # Python标准GUI库
