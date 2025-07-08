@@ -1,16 +1,10 @@
-# 敏感数据识别与分类系统
+# 敏感数据识别与分类系统 (Sensitive Data System)
 <!-- Author: 谭鸿威、郭欣、潘永键、张泽佳 -->
 <!-- University: 佛山大学 -->
 <!-- Laboratory: 网络安全实验室 -->
 <!-- Date: 2025-04-17-->
 
 本项目是基于paddleocr和tshark的敏感数据识别与分类系统。
-
-以下是一个格式化为 Markdown 的 `README.md` 文件内容，适用于在 GitHub 上展示你的项目结构和模块架构：
-
----
-
-# Sensitive Data System
 
 ## 系统目录结构
 
